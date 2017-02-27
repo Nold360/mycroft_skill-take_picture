@@ -1,0 +1,7 @@
+{
+  "utterance": "take a picture",
+  "intent_type": "PictureIdent",
+  "intent": {
+    "PictureKeyword": "take a picture"
+  }
+}
